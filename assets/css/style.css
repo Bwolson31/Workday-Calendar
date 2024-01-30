@@ -20,6 +20,10 @@ textarea {
   border-radius: 15px;
 }
 
+#event-notice {
+  text-align: center;
+}
+
 .row {
   border-top: 1px solid white;
 }
@@ -43,6 +47,11 @@ textarea {
 .future {
   background-color: #77dd77;
   color: white;
+}
+
+span {
+  color: red;
+  font-family: monospace;
 }
 
 .saveBtn {
