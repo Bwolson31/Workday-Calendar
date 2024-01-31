@@ -7,7 +7,8 @@ This code allows users to store hourly events in a daily 9-5 work calendar, whil
 
 [image of website](image.png)
 
-
+Here is a link to the website itself: 
+https://bwolson31.github.io/Workday-Calendar/
 
 ## Installation 
 N/A
